@@ -3,8 +3,6 @@
 <h3 align="center"> ARTIFICIAL INTELLIGENCE & DATA SCIENCE student from India</h3>
 <p align="center"><img  alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/> </p>
 
-<!--
-**tamannamalik16/tamannamalik16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on **Campus Connect**
 - 🌱 I’m currently learning **React.js** 

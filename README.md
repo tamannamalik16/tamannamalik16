@@ -42,8 +42,8 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
-<a href="https://linkedin.com/in/tamanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna" height="30" width="40" /></a>
+<div align="left" margin-bottom="2px">
+<a href="https://linkedin.com/in/tamanna-malik-300081304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna" height="30" width="40" /></a>
 
 </div>
 

@@ -1,6 +1,6 @@
 ![logo](https://github.com/tamannamalik16/tamannamalik16/blob/main/tamanna.png)
 <h1 align="center">Hi 👋, I'm Tamanna </h1>
-<h3 align="center"> ARTIFICIAL INTELLIGENCE & DATA SCIENCE student from India</h3>
+<h3 align="center"> CSE student </h3>
 <p align="center"><img  alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/> </p>
 
 

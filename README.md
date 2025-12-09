@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **developing end-to-end projects**
-- Explore my work at [https://portfolio-gdor.vercel.app](https://portfolio-gdor.vercel.app)
+- Explore my portfolio at [https://portfolio-gdor.vercel.app](https://portfolio-gdor.vercel.app)
 
 - 👯 I’m looking to collaborate on **Full-stack and frontend projects**
 - 👨‍💻 All of my projects are available at [https://github.com/tamannamalik16](https://github.com/tamannamalik16)

@@ -4,8 +4,9 @@
 <p align="center"><img  alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/> </p>
 
 
-- 🔭 I’m currently working on **Campus Connect**
-- 🌱 I’m currently learning **React.js** 
+- 🔭 I’m currently working on **developing end-to-end projects**
+- Explore my work at [https://portfolio-gdor.vercel.app](https://portfolio-gdor.vercel.app)
+
 - 👯 I’m looking to collaborate on **Full-stack and frontend projects**
 - 👨‍💻 All of my projects are available at [https://github.com/tamannamalik16](https://github.com/tamannamalik16)
 - 📫 How to reach me:  **tamannamalik219@gmail.com**
